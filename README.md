@@ -1,4 +1,4 @@
-Стандартная сборка докера для работы с Symfony:
+Default docker-compose for Symfony app
 
 php-fpm
 composer
